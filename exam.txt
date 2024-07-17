@@ -1,4 +1,9 @@
 xyahađhdhdh
 hhdhdhhdhdhdhdh
 hdhdhdhdhhdhdhd
+<<<<<<< HEAD
 sửa dưới client
+=======
+update server
+>>>>>>> 7631267d9ed3af1f1c3ccbd6aa99d614cc5d3868
+update client
